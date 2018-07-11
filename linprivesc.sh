@@ -1523,4 +1523,17 @@ echo "Kernel under 2.6.32.2 Ubuntu 10.04: Half-nelson: https://www.exploit-db.co
 echo "FreeBSD 9.0/9.1: mmap/ptrace: https://www.exploit-db.com/exploits/26368/"
 echo "Kernel 2.4.x/2.6.x: https://www.exploit-db.com/exploits/9545/ - compile as: gcc -Wall -o 9545 9545.c -Wl,--hash-style=both"
 echo ""
+#More
+#DirtyCOW AddUser (Ubuntu <4.4/<3.13; Debian <4.7.8)
+#DirtyCOW Pokeball (Linux Kernel 2.6.22 < 3.9)
+#Mempodipper (Linux 2.6.39<3.2.2 Gentoo/Debian)
+#Full Nelson (Linux 2.6.31<2.6.37 RedHat/Debiab)
+#Half Nelson (Linux Kernel 2.6.0<2.6.36.2)
+#Clown NewUser (Linux 3.0<3.3.5)
+#fasync_helper (Linux Kernel <2.6.28)
+#overlayfs (Linux 3.13.0<3.19)
+#pipe.c root(kit?) (Kernel 2.6.x (32 Bit only!))
+#PERF_EVENTS (Kernel 2.6.32-3.8.10)
+#CAN BCM Exploit (Kernel <2.6.36)
+#Cups local Exploit (Cups <1.1.17)
 exit
